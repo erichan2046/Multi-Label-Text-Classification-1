@@ -9,6 +9,7 @@ import json
 import numpy as np
 
 from collections import OrderedDict
+from matplotlib import pylab
 from pylab import *
 from gensim.models import word2vec
 from tflearn.data_utils import pad_sequences
